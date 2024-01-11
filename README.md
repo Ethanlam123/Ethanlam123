@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ## 👋 Hi there!
 
 I'm Ethan, a passionate learner and aspiring technologist from Hong Kong, currently studying in Taiwan at National Taiwan Normal University (NTNU). I'm in my third year, pursuing a double major in Mathematics and Computer Science and Information Engineering. I'm also a proud member of the GDSCxNTNU Tech Core Team.
+### Github Status
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethanlam123&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethanlam123&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌏 About Me
 
@@ -39,3 +42,4 @@ I'm Ethan, a passionate learner and aspiring technologist from Hong Kong, curren
 ### 🤝 Connect & Collaborate
 
 Feel free to contact me if you have any questions or if you're interested in collaborating on exciting projects in data science, ML, DL, or anything tech! I love connecting with like-minded individuals and exploring new opportunities.
+
