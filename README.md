@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ethanlam123/Ethanlam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Ethan Lam
+
+## 👋 Hi there!
+
+I'm Ethan, a passionate learner and aspiring technologist from Hong Kong, currently studying in Taiwan at National Taiwan Normal University (NTNU). I'm in my third year, pursuing a double major in Mathematics and Computer Science and Information Engineering. I'm also a proud member of the GDSCxNTNU Tech Core Team.
+
+### 🌏 About Me
+
+- 📚 **Education:** BSc in Mathematics and CSIE, Year 3, NTNU.
+- 🌟 **Interests:** Quantitative finance, algorithmic trading, data science, machine learning, deep learning, data visualization, and mathematical modeling.
+- 💡 **I Love:** Learning new things, solving complex problems, working with numbers, and creating compelling visualizations.
+- 🚀 **Currently Learning/Working On:** 
+  - Leveraging Large Language Models (LLM) for trading strategies.
+  - Web development technologies.
+  - Deep learning techniques.
+  - Participating in Kaggle competitions.
+  - Exploring LLM applications.
+
+### 💻 Skills and Technologies
+
+- **Programming Languages:** Python, C.
+- **Tools & Technologies:** Tableau Desktop, Git, Markdown, LaTeX.
+- **Domains:** Mathematical Modeling, Data Analysis, Data Visualization, Machine Learning/Deep Learning (ML/DL).
+
+### 🤝 Connect & Collaborate
+
+Feel free to contact me if you have any questions or if you're interested in collaborating on exciting projects in data science, ML, DL, or anything tech! I love connecting with like-minded individuals and exploring new opportunities.
