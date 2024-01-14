@@ -23,7 +23,7 @@ I'm Ethan, a passionate learner and aspiring technologist from Hong Kong, curren
 
 ### 🌏 About Me
 
-- 📚 **Education:** BSc in Mathematics and CSIE, Year 3, NTNU.
+- 📚 **Education:** BSc in Mathematics and BEng in CSIE, Year 3, NTNU.
 - 🌟 **Interests:** Quantitative finance, algorithmic trading, data science, machine learning, deep learning, data visualization, and mathematical modeling.
 - 💡 **I Love:** Learning new things, solving complex problems, working with numbers, and creating compelling visualizations.
 - 🚀 **Currently Learning/Working On:** 
