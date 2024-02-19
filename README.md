@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there!
 
-### Github Status
-![Ethan's GitHub stats](https://github-readme-stats-ethanlams-projects.vercel.app/api?username=Ethanlam123&show_icons=true&count_private=true&theme=onedark)
-[![Top Langs](https://github-readme-stats-ethanlams-projects.vercel.app/api/top-langs/?username=Ethanlam123&count_private=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🌏 About Me
 
 - 📚 **Education:** BSc in Mathematics and BEng in CSIE, Year 3, NTNU.
