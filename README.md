@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🌏 About Me
 
-- 📚 **Education:** BSc in Mathematics and BEng in CSIE, Year 3, NTNU.
+- 📚 **Education:** BSc in Mathematics and BEng in CSIE, Year 4, NTNU.
 - 🌟 **Interests:** Data science, machine learning, deep learning, data visualization, and mathematical modeling.
 - 💡 **I Love:** Learning new things, Working with numbers, and creating compelling visualizations.
 - 🚀 **Currently Learning/Working On:** 
