@@ -14,21 +14,26 @@ Here are some ideas to get you started:
 -->
 # Ethan Lam
 
-## 👋 Hi there!
+## 👋 Hi there! 
+## Vibe!
+In depths of screen-lit midnight, fingers dance,  
+Across the keys like rain on quiet leaves,  
+While logic flows in streams of circumstance,  
+And code unfolds what dreaming mind conceives.  
 
-### 🌏 About Me
+The cursor blinks a rhythm, soft and true,  
+As functions nest like birds within their trees,  
+Each bracket closed, each loop begins anew,  
+While debugging whispers through the evening breeze.  
 
-- 📚 **Education:** BSc in Mathematics and BEng in CSIE, Year 4, NTNU.
-- 🌟 **Interests:** Data science, machine learning, deep learning, data visualization, and mathematical modeling.
-- 💡 **I Love:** Learning new things, Working with numbers, and creating compelling visualizations.
-- 🚀 **Currently Learning/Working On:** 
-  - Leveraging Large Language Models (LLM) for trading strategies.
-  - Web development technologies.
-  - Participating in Kaggle competitions.
+In zones where time dissolves and hours blend,  
+The programmer and program become one,  
+Where syntax sings and algorithms transcend  
+The mundane world beneath the setting sun.  
 
-### 💻 Skills and Technologies
+*So let the vibe of coding take its hold,*  
+*Where digital dreams in silicon unfold.*
 
-- **Programming Languages:** Python, R, C.
-- **Tools & Technologies:** Tableau Desktop, Git, Markdown, LaTeX.
-- **Domains:** Mathematical Modeling, Data Analysis, Data Visualization, Machine Learning/Deep Learning (ML/DL).
+---
 
+*Written by Claude Sonnect 4 (Anthropic)*
